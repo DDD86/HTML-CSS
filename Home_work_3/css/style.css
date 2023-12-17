@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+} 
+
+.multicolor-text {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.orange-text {
+    color: #F25822;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 500px;
+}
+
+.logo {
+    margin-left: 375px;
+    margin-top: 45px;
+}
+
+.Navigation1 {
+    color: #F25822;
+    font-family: Gilroy-SemiBold;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Navigation {
+    color: #000;
+    font-family: Gilroy-Medium;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 40px;
+}
+
+.Navigation li {
+    display: inline-block; /* Элементы списка в строку */
+    margin-right: 10px; /* Расстояние между элементами списка */
+}
+
+.Main-content {
+    width: 100%;
+}
+
+.Text {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 373px;
+    margin-top: 164px;
+    margin-right: 1025px;
+}
+
+.Text1 {
+    color: #888;
+    font-family: Gilroy-Medium;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 373px;
+    padding-top: 17px;
+}
+
+.push {
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba
+    (242, 88, 34, 0.20);
+    width: 140px;
+    height: 50px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 375px;
+    margin-top: 85px;
+}
+
+.push1 {
+    color: #AAA;
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 50px;
+}
+
+.pict1 {
+    margin-left: 424px;
+    width: 544.814px;
+    height: 374.843px;
+    flex-shrink: 0;
+    height: auto;
+    margin-top: 162.71px;
+    margin-bottom: 162,45px;
+    margin-left: 935,94px;
+    margin-right: 439,25px;
+}
+
+.Bottom-bar {
+    list-style-type: none; /* Убираем маркеры (точки) */
+    padding: 0; /* Убираем внутренний отступ у списка */
+    margin: 0; /* Убираем внешний отступ у списка */
+    margin-left: 375px;
+    padding-bottom: 97px;
+    padding-top: 97px;
+}
+
+.Bottom-bar img {
+    display: inline-block; /* Элементы списка в строку */
+    margin-right: 46px; /* Расстояние между элементами списка */
+}
